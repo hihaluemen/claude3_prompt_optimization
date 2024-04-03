@@ -5,4 +5,5 @@ The Prompt and method is from offical code, you can view in https://colab.resear
 
 # use
 pip install -r requirements.txt
+\n
 python webui.py
